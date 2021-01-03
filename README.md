@@ -1,1 +1,2 @@
-# tugas_14
+import numpy as np
+import matplotlib.pyplot as plt
